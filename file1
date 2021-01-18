@@ -1,13 +1,2 @@
 Hello world!!!123
-12345
-<<<<<<< HEAD
-<<<<<<< HEAD
-Good bye12
-=======
-Good bye1
-Line from user1
->>>>>>> be5f2087f266598293af30386bf2c2636ecc5f2d
-=======
-Good bye1
-Line from user1
->>>>>>> be5f2087f266598293af30386bf2c2636ecc5f2d
+line from user1
